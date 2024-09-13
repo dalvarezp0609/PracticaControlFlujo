@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\9nue\\Desktop\\Evaluacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3437AB9F-4C39-4041-BC6B-A6D243EDD7C5}|Evaluacion\\Evaluacion.csproj|c:\\users\\9nue\\desktop\\evaluacion\\evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3437AB9F-4C39-4041-BC6B-A6D243EDD7C5}|Evaluacion\\Evaluacion.csproj|solutionrelative:evaluacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\9nue\\Desktop\\Evaluacion\\Evaluacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Evaluacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\9nue\\Desktop\\Evaluacion\\Evaluacion\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "Evaluacion\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:33:41.947Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
